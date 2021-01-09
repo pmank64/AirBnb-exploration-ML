@@ -11,10 +11,10 @@ Our primary objectives were:
 * Predicting the price for Airbnb listings in New York City and understanding what features contribute to profitable business opportunities for Airbnb
 ### Dataset Overview
 Our data was taken from 4 files as listed below. The datasets were taken from [InsideAirbnb](http://insideairbnb.com/get-the-data.html) and were last updated in October 2020.
-1.	[Listings](http://data.insideairbnb.com/united-states/ny/new-york-city/2020-10-05/data/listings.csv.gz) (Detailed listings data for New York City.)
-2.	[Reviews](http://data.insideairbnb.com/united-states/ny/new-york-city/2020-10-05/data/reviews.csv.gz) (Detailed review data for listings in New York City.)
-3.	[Calendar](https://data.insideairbnb.com/united-states/ny/new-york-city/2020-01-03/data/calendar.csv.gz) (Detailed calendar data for listings in New York City.)
-4.	[Neighborhoods](http://data.insideairbnb.com/united-states/ny/new-york-city/2020-10-05/visualisations/neighbourhoods.csv) (Neighborhoods list for geo filter. Sourced from city or open source GIS files.)
+1.	Listings (Detailed listings data for New York City.)
+2.	Reviews (Detailed review data for listings in New York City.)
+3.	Calendar (Detailed calendar data for listings in New York City.)
+4.	Neighborhoods (Neighborhoods list for geo filter. Sourced from city or open source GIS files.)
 
 ### Conclusion
 
